@@ -1,7 +1,4 @@
-# READMe
-## This is the README for your extension 
-# [3ctopuzzhi]
-
+# THEME Vscode [3ctopuzzhi]
 ## DONATION :,)
 ## Help -> gitCoins
 
