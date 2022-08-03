@@ -1,0 +1,30 @@
+{
+    "name": "3ctopuzzhi",
+    "displayName": "3ctopuzzhi",
+    "description": "theme cyberpumk",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "3ctopuzzhi",
+                "uiTheme": "vs-dark",
+                "path": "./themes/3ctopuzzhi-color-theme.json"
+            }
+        ]
+    },
+    "icon": "icon/falcon.gif",
+    "author": {
+        "name": "Christian3 Jhoel"
+    },
+    "repository": {
+        "url": "https://github.com/Ian3v/3ctopuzzhi.git",
+        "type": "git"
+    },
+    "publisher": "3ctopuzzhi"
+}
