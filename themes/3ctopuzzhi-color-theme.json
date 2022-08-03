@@ -30,7 +30,7 @@
 		"list.activeSelectionIconForeground": "#ff07c1b2",
 		"list.inactiveSelectionBackground": "#2e0049fa",
 		"list.inactiveFocusOutline": "#00ff1500",
-		"list.inactiveSelectionForeground": "#c535b9",
+		"list.inactiveSelectionForeground": "#ff7ff4",
 		"list.focusAndSelectionOutline": "#ff000000",
 		"list.activeSelectionForeground": "#ff43f6",
 		"list.dropBackground": "#f709ff1a",
@@ -58,12 +58,12 @@
 		"editorIndentGuide.background": "#361046",
 		"editor.selectionBackground": "#ff56564e",
 		"menubar.selectionBackground": "#331327",
-		"menu.foreground": "#ff4a4a",
+		"menu.foreground": "#e7a6ff",
 		"menu.selectionForeground": "#50ff90",
 		"quickInput.background": "#1d003bc4",
 		 "panelSection.border": "#945959",
 		"quickInputList.focusBackground": "#830011",
-		"quickInput.foreground": "#f85555f6",
+		"quickInput.foreground": "#ffababf6",
 		"quickInputList.focusForeground": "#ff6d6d",
 		"quickInputList.focusIconForeground": "#f6f6f6",
 		 "editorLineNumber.activeForeground": "#10ffd7",
@@ -106,7 +106,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#d55170"
+				"foreground": "#f67d99"
 			}
 		},
 		{
@@ -169,7 +169,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#fd7f44"
+				"foreground": "#ff8f7d"
 			}
 		},
 		{
