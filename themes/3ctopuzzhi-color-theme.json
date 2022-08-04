@@ -10,7 +10,20 @@
 		"activityBar.background": "#16161e",
 		
 		"statusBar.background": "#0d0d11",
+		"statusBar.foreground": "#df2727",
+		// "statusBarItem.hoverBackground": "#00ff80ab",
+		
+		// "statusBar.background": "#85a300",
+		// "statusBar.foreground": "#000000",
+		// "statusBarItem.hoverBackground": "#00ff80",
 
+
+		"statusBar.border": "#96949400",
+		"statusBar.debuggingBackground": "#85a300",
+		"statusBar.debuggingBorder": "#ff000000",
+		"statusBar.debuggingForeground": "#000000",
+		
+		
 		//!ICONO ACTIVADO
 		"activityBar.foreground": "#f35728",	
 		"activityBar.inactiveForeground": "#9c474e",
@@ -46,9 +59,6 @@
 		"list.activeSelectionForeground": "#ff43f6",
 		"list.dropBackground": "#f709ff1a",
 		"list.activeSelectionBackground": "#42006e",
-		"statusBar.border": "#96949400",
-		"statusBar.foreground": "#df2727",
-		"statusBar.noFolderBackground": "#161212",
 		"menu.background": "#19002cc6",
 		"tab.activeBackground": "#36005800",
 		"tab.inactiveForeground": "#27d797",
@@ -122,7 +132,8 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#e66785"
+				// "foreground": "#fff3f6"
+				"foreground": "#e76464"
 			}
 		},
 		{
@@ -154,7 +165,7 @@
 			"settings": {
 				"fontStyle": "italic bold",
 				// "foreground": "#db50d7"
-				"foreground": "#9a8fff"
+				"foreground": "#26fd99"
 // 
 			}
 		},
@@ -176,7 +187,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic ",
-				"foreground": "#e3ff7d"
+				"foreground": "#c5f73b"
 			}
 		},
 		{
@@ -201,7 +212,9 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
+				// "foreground": "#f57e7e"
 				"foreground": "#41fff6"
+				// "foreground": "#9a8fff"
 			}
 		},
 		{
@@ -236,7 +249,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#a9d40e"
+				"foreground": "#c550ff"
 			}
 		},
 		{
@@ -252,7 +265,10 @@
 			],
 			"settings": {
 				// "foreground": "#4ef7a8"
-				"foreground": "#adff42"
+				// "foreground": "#adff42"
+
+				"foreground": "#9a8fff"
+				// "foreground": "#41fff6"
 			}
 		},
 		{
@@ -277,7 +293,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#26fd99"
+				"foreground": "#adff42"
 			}
 		},
 		{
@@ -341,7 +357,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#b192fa"
+				"foreground": "#f549f2"
 			}
 		},
 		{
