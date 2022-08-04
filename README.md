@@ -1,4 +1,4 @@
-# THEME Vscode  v. 0.2.0[3ctopuzzhi]
+# THEME Vscode  v. 0.3.0[3ctopuzzhi]
 ## DONATION :,)
 ## Help -> gitCoins
 
